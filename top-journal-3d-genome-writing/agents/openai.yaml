@@ -1,0 +1,4 @@
+interface:
+  display_name: "Top Journal 3D Genome Writing"
+  short_description: "Draft and polish top-tier 3D genome papers and figures."
+  default_prompt: "Use $top-journal-3d-genome-writing to plan a Nature-level 3D genome manuscript and main figures."
